@@ -1,0 +1,12 @@
+{
+  "api_key": "BINANCE_API_KEY",
+  "api_secret": "BINANCE_API_SECRET",
+  "api_key_testnet": "BINANCE_TESTNET_API_KEY",
+  "api_secret_testnet": "BINANCE_TESTNET_API_SECRET",
+  "testnet": false,
+  "symbol": "BTCUSDT",
+  "leverage": 10,
+  "capital_percentage": 99,
+  "stop_loss_pct": 0.1,
+  "take_profit_pct": 0.35
+}
